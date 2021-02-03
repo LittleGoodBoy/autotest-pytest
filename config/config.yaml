@@ -1,0 +1,32 @@
+ui:
+  test: http://shopxo.hctestedu.com/
+  prourl:
+  preurl:
+api:
+  test: http://127.0.0.1:5000/api/huace/
+  prourl:
+  preurl:
+
+runAPI:   #代表用例的编号 ，
+runAPIS: [5,3,1]   #批量用例的编写,一个场景的用例
+
+browser:
+    type: chrome #ie firefox
+    env:  localhost  #headless #selenium_grid #docker
+
+database:
+    username: root
+    password: root123
+    dbname: atp_auto_sit
+    serve: localhost
+
+appdata:
+    devicesname: emulator-5554
+    appname: com.netease.cloudmusic
+
+
+email:
+
+
+
+

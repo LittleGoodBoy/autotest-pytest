@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Nov 03 20:16:40 CST 2020","Tue Nov 03 20:16:40 CST 2020","0","AppTestCase","testcase1","TestCase","","","testcase",""

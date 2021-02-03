@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: exceptions must derive from BaseException",
+      "children" : [ {
+        "name" : "testcase",
+        "uid" : "4d28a33fdc374e03",
+        "parentUid" : "f686c92fbacb894b21fc948f0d46f177",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604405800627,
+          "stop" : 1604405800627,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f686c92fbacb894b21fc948f0d46f177"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

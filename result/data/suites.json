@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "AppTestCase",
+    "children" : [ {
+      "name" : "testcase1",
+      "children" : [ {
+        "name" : "TestCase",
+        "children" : [ {
+          "name" : "testcase",
+          "uid" : "4d28a33fdc374e03",
+          "parentUid" : "aaf59bce4cbbf495b61eb64c6713f224",
+          "status" : "broken",
+          "time" : {
+            "start" : 1604405800627,
+            "stop" : 1604405800627,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aaf59bce4cbbf495b61eb64c6713f224"
+      } ],
+      "uid" : "4069351384f4f2db8cded281fa52f50b"
+    } ],
+    "uid" : "c3d08c1b05f9bb2e961aca3b2bd08ee2"
+  } ]
+}

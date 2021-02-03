@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "AppTestCase.testcase1",
+    "children" : [ {
+      "name" : "testcase",
+      "uid" : "4d28a33fdc374e03",
+      "parentUid" : "f0f7d18de4fc0ab1f44cd4dc0f12a739",
+      "status" : "broken",
+      "time" : {
+        "start" : 1604405800627,
+        "stop" : 1604405800627,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "AppTestCase.testcase1"
+  } ]
+}

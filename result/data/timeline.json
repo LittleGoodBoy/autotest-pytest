@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-KB9LI82U",
+    "children" : [ {
+      "name" : "13212-MainThread",
+      "children" : [ {
+        "name" : "testcase",
+        "uid" : "4d28a33fdc374e03",
+        "parentUid" : "df25149f12492d9abd0acb2680eae49e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604405800627,
+          "stop" : 1604405800627,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df25149f12492d9abd0acb2680eae49e"
+    } ],
+    "uid" : "0a4d71ecbec39b11bbb9a5eb1a38b1b8"
+  } ]
+}
